@@ -46,3 +46,4 @@ if uploaded_file is not None:
     prediction = "99.7%"
     
     st.write(f"## Final Prediction: ", prediction)
+    
